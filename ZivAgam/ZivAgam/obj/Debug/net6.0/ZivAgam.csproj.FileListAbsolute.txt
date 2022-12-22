@@ -1,0 +1,15 @@
+C:\Users\Ori\source\repos\ZivAgam\ZivAgam\obj\Debug\net6.0\ZivAgam.csproj.AssemblyReference.cache
+C:\Users\Ori\source\repos\ZivAgam\ZivAgam\obj\Debug\net6.0\ZivAgam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ori\source\repos\ZivAgam\ZivAgam\obj\Debug\net6.0\ZivAgam.AssemblyInfoInputs.cache
+C:\Users\Ori\source\repos\ZivAgam\ZivAgam\obj\Debug\net6.0\ZivAgam.AssemblyInfo.cs
+C:\Users\Ori\source\repos\ZivAgam\ZivAgam\obj\Debug\net6.0\ZivAgam.csproj.CoreCompileInputs.cache
+C:\Users\Ori\source\repos\ZivAgam\ZivAgam\bin\Debug\net6.0\ZivAgam.exe
+C:\Users\Ori\source\repos\ZivAgam\ZivAgam\bin\Debug\net6.0\ZivAgam.deps.json
+C:\Users\Ori\source\repos\ZivAgam\ZivAgam\bin\Debug\net6.0\ZivAgam.runtimeconfig.json
+C:\Users\Ori\source\repos\ZivAgam\ZivAgam\bin\Debug\net6.0\ZivAgam.dll
+C:\Users\Ori\source\repos\ZivAgam\ZivAgam\bin\Debug\net6.0\ZivAgam.pdb
+C:\Users\Ori\source\repos\ZivAgam\ZivAgam\obj\Debug\net6.0\ZivAgam.dll
+C:\Users\Ori\source\repos\ZivAgam\ZivAgam\obj\Debug\net6.0\refint\ZivAgam.dll
+C:\Users\Ori\source\repos\ZivAgam\ZivAgam\obj\Debug\net6.0\ZivAgam.pdb
+C:\Users\Ori\source\repos\ZivAgam\ZivAgam\obj\Debug\net6.0\ZivAgam.genruntimeconfig.cache
+C:\Users\Ori\source\repos\ZivAgam\ZivAgam\obj\Debug\net6.0\ref\ZivAgam.dll
